@@ -15,4 +15,5 @@ Please make contribution to build up the database and complete my project on you
 
 Installation Instructions:
 1. To use python I have tried coding with PyCharm which has been easy and straightforward. Here is the link to download and install: https://www.jetbrains.com/pycharm/download/?section=windows / https://www.jetbrains.com/help/pycharm/installation-guide.html#snap
-2. To use all the modules please import them as I did in the code.
+2. To use pyperclip library you should install it; write this command in the Cmd: pip install pyperclip 
+3. To use all the other modules please import them as I did in the code.
