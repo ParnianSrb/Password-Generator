@@ -1,7 +1,7 @@
 # Password Generator
 ## Generate your Password by setting the conditions of password's length and strength
 
-Code is written in Python using PyCharm, and Qt-Designer for the front-end. The generator makes use of several important modules, "secrets" for generating secure random numbers, "pyperclip" which gives the ability of copying and pasting text to the clipboard and finally "PyQt5" for using PyQt5 Widgets.
+Code is written in Python using PyCharm, and Qt-Designer for the front-end. The project makes use of several important modules, "secrets" for generating secure random numbers, "pyperclip" which gives the ability of copying and pasting text to the clipboard and finally "PyQt5" for using PyQt5 Widgets.
 
 A you can see in the picture below, there are three condistions to generate a password, including: Username, Password Length and Strength. The Strength itself has three levels that based on each option, a different password is generated. This operation is handled by the "secrets" module which provides access to the most secure source of randomness that your operating system provides. The considered alphabets related to these three options are...
 Weak: Digits, Lowercase Letters
